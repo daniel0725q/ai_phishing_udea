@@ -6,4 +6,4 @@
 Los datos provienen de la siguiente base de datos de archivos: https://www.kaggle.com/datasets/akashkr/phishing-website-dataset/. Los datos se obtienen automanticante al abrir el Colab, no requiere pasos extras.
 
 ## Videos
-TODO
+- Entrega 2: https://youtu.be/Szl6B03-gaU
