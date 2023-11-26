@@ -7,3 +7,4 @@ Los datos provienen de la siguiente base de datos de archivos: https://www.kaggl
 
 ## Videos
 - Entrega 2: https://youtu.be/Szl6B03-gaU
+- Entrega final: https://youtu.be/OmBCeK-5g80
